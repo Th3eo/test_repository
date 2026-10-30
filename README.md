@@ -10,3 +10,5 @@ merci.
 On rajoute encore une petite ligne ici. Juste histoire de quoi.
 
 Énième test sur Git.
+
+Conflit assuré!
