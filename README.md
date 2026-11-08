@@ -12,3 +12,6 @@ On rajoute encore une petite ligne ici. Juste histoire de quoi.
 Énième test sur Git.
 
 Conflit assuré!
+
+
+Test n°6 | 08/11/2026
