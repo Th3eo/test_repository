@@ -2,7 +2,7 @@
 j'aime Git
 et la banane au nutella
 
-Ah, quand la lumière devient violète. 
+la lumière devient violète. 
 
 
 merci.
