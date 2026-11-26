@@ -2,7 +2,7 @@
 j'aime Git
 et la banane au nutella
 
-lète. 
+la lumière devient violète. 
 
 
 merci.
