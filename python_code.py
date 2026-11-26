@@ -1,7 +1,3 @@
-for i in range(11):
-    if i % 3 == 0:
-        continue
-    else: print(i *7)
 
 l = [1, 1]
 for i in range(0,40):
